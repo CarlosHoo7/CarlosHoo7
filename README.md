@@ -1,6 +1,5 @@
 ## Hello!
 
-<!--
 My name is Carlos, I'm a System Engineering student, this is the place where I drop my practices and personal works in the programming scene. I tend to focus on backend works (Libraries, APIs), though some works do use frontend focused code. Currently, I'm concentrating on Desktop Application, as well as Web Application Development.
 
 These are the technologies and languages I'm already familiar with:
