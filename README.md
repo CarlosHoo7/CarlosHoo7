@@ -14,7 +14,9 @@ These are the technologies and languages I'm already familiar with:
 Among others ..
 
 if you're interested in contacting me, please, feel free to send me an email at: carlosvidalnogueragarcia@gmail.com
+
 ----------------------------------------------------------------------------------------------------------
+
 Mi nombre es Carlos, soy un estudiante de Ingeniería de Sistemas, en este lugar subo mis prácticas o trabajos personales en el ámbito de programación. Suelo enfocarme en proyectos backend (Librerías, APIs), aunque algunos trabajos incluyen código de frontend dentro de ellos. Actualmente, me concentro en el desarrollo de aplicaciones para computadora, así como también, aplicaciones Web.
 
 Estas son las tecnologías con las que estoy familiarizado: 
@@ -22,9 +24,10 @@ Estas son las tecnologías con las que estoy familiarizado:
 -  👌 C++
 -  🐍 Python
 -  🤓 PHP
--  📟 SQLite and MySQL
+-  📟 SQLite y MySQL
 -  🦁 Django
 -  🧑‍🎨 HTML
+  
 Entre otras...
 
 Si estás interesado en contactarme, por favor, envíame un email al correo: carlosvidalnogueragarcia@gmail.com
